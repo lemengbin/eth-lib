@@ -35,6 +35,7 @@
     "nano-json-stream-parser": "^0.1.2",
     "servify": "^0.1.12",
     "ws": "^3.0.0",
-    "xhr-request-promise": "^0.1.2"
+    "xhr-request-promise": "^0.1.2",
+    "crypto-js": "^3.1.4"
   }
 }
